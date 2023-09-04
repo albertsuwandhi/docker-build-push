@@ -17,7 +17,7 @@ Actions:
       Name: Sandbox
       Connections:
         - Name: Sandbox
-          Role: CodeCatalystWorkflowDevelopmentRole-Albert-CodeCatalyst
+          Role: CodeCatalystWorkflowRole-Albert-CodeCatalyst
 
 
     # Defines the action's properties.
